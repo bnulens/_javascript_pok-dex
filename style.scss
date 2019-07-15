@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'VT323', monospace;
+}
+
+ul {
+    list-style: none;
+    background-image: linear-gradient(#22005c, #4E00FF);
+    color: white;
+}
+
+li {
+    padding: 8px;
+}
+
+.pokemon-info .weight {
+    border-bottom-color: rgb(0, 255, 251);
+}

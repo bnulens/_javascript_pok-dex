@@ -1,4 +1,4 @@
-# _javascript_pok-dex
+# _javascript_pokey-dex
 BeCode-javascript-challenge
 
 Initial code and setup provided by 'coach' S. Nijst.  
